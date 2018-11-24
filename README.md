@@ -54,10 +54,10 @@ Market Quant Analysis - quant analyst
 
 #### Ziqi Liu
 Barclays 2015-2018:  
-Full stack engineer  
+Fullstack software engineer  
 
 JP Morgan 2018:  
-Asset Management - Full stack engineer  
+Asset Management - Full stack software engineer  
 
 ### 最后, 为什么我总是义务干这些事情?
 因为北邮人在英国不给力呀! 周围总是宁诺和西交利物浦圈子的人, 北邮人交流太少, 快点拿出你们的实力来!
