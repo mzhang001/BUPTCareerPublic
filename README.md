@@ -56,8 +56,12 @@ Fullstack software engineer
 JP Morgan 2018:  
 Asset Management - Full stack software engineer  
 
-### 时间地点: 2018.12.1 2pm, goodge street地铁站, 伦敦.
 ### 费用:免费
 ### 人数:只限10人
 (因为收费被人吐槽, 没钱没精力搞场地, 欢迎捐款)
 ### 如何参加:
+
+![1](https://github.com/mincongzhang/BUPTCareerPublic/blob/master/join.jpg)
+
+![2](https://github.com/mincongzhang/BUPTCareerPublic/blob/master/diss.jpg)
+
