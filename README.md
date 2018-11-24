@@ -44,7 +44,7 @@
 总之机会是给有准备的人的. 大家加油!
 
 ### 主讲人信息:
-Mincong Zhang  
+#### Mincong Zhang  
 Factset 2015-2018:  
 Market Data - software engineer/team manager  
 FDB NoSQL database: software engineer  
@@ -52,7 +52,12 @@ FDB NoSQL database: software engineer
 Citi 2018:  
 Market Quant Analysis - quant analyst  
 
+#### Ziqi Liu
+Barclays 2015-2018:  
+Full stack engineer  
 
+JP Morgan 2018:  
+Asset Management - Full stack engineer  
 
 ### 最后, 为什么我总是义务干这些事情?
 因为北邮人在英国不给力呀! 周围总是宁诺和西交利物浦圈子的人, 北邮人交流太少, 快点拿出你们的实力来!
