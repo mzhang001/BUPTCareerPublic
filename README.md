@@ -2,27 +2,6 @@
 
 很多同学都在向我们的学长学姐打听英国求职的情况, 那么我们就打算集中办一场求职咨询会了!
 
-### 时间地点: 2018.12.1 2pm, goodge street地铁站, 伦敦.
-### 费用:免费
-### 人数:只限10人
-(因为收费被人吐槽, 没钱没精力搞场地, 欢迎捐款)
-
-### 主讲人信息:
-#### Mincong Zhang  
-Factset 2015-2018:  
-Market Data - software engineer/team manager  
-FDB NoSQL database: software engineer  
-
-Citi 2018:  
-Market Quant Analysis - quant analyst  
-
-#### Ziqi Liu
-Barclays 2015-2018:  
-Fullstack software engineer  
-
-JP Morgan 2018:  
-Asset Management - Full stack software engineer  
-
 ### 介绍
 
 大部分同学都是一年硕士, 觉得找工作希望渺茫. 但其实不是这样的, 尽早准备的话希望很大! 
@@ -60,3 +39,25 @@ Asset Management - Full stack software engineer
 
 ### 最后, 为什么我总是义务干这些事情?
 因为北邮人在英国不给力呀! 周围总是宁诺和西交利物浦圈子的人, 北邮人交流太少, 快点拿出你们的实力来!
+
+
+### 时间地点: 2018.12.1 2pm, goodge street地铁站, 伦敦.
+### 费用:免费
+### 人数:只限10人
+(因为收费被人吐槽, 没钱没精力搞场地, 欢迎捐款)
+
+### 主讲人信息:
+#### Mincong Zhang  
+Factset 2015-2018:  
+Market Data - software engineer/team manager  
+FDB NoSQL database: software engineer  
+
+Citi 2018:  
+Market Quant Analysis - quant analyst  
+
+#### Ziqi Liu
+Barclays 2015-2018:  
+Fullstack software engineer  
+
+JP Morgan 2018:  
+Asset Management - Full stack software engineer  
