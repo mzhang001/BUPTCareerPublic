@@ -45,11 +45,11 @@
 
 ### 主讲人信息:
 Mincong Zhang  
-Factset 3年:  
-Market Data部门 - software engineer/team manager  
-FDB NoSQL database部门: software engineer  
+Factset 2015-2018:  
+Market Data - software engineer/team manager  
+FDB NoSQL database: software engineer  
 
-Citi 1年:  
+Citi 2018:  
 Market Quant Analysis - quant analyst  
 
 
