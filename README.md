@@ -22,6 +22,7 @@
 (1)电话面软问题技巧  
 (2)Group discussion怎么表现?  
 (3)技术面到底"技术"到什么程度?  
+(4)如何抱佛脚: 在哪可以找到面经和题库?  
 (投行的entry level面试真的相当简单, 不去面就亏大啦)  
 
 2. 纯技术公司和fintech公司面试流程介绍, 以及:  
@@ -61,7 +62,10 @@ Asset Management - Full stack software engineer
 (因为收费被人吐槽, 没钱没精力搞场地, 欢迎捐款)
 ### 如何参加:
 
-![1](https://github.com/mincongzhang/BUPTCareerPublic/blob/master/join.jpg)
+这个群不限人数, 以后大家可以分享讨论找工作面试信息
+![1](https://github.com/mincongzhang/BUPTCareerPublic/blob/master/diss.jpg)
 
-![2](https://github.com/mincongzhang/BUPTCareerPublic/blob/master/diss.jpg)
+这个群只限最先加入的前10人, 后面的就不好意思了, 地点稍后通知
+![2](https://github.com/mincongzhang/BUPTCareerPublic/blob/master/join.jpg)
+
 
