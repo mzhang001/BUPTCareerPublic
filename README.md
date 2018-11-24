@@ -7,6 +7,21 @@
 ### 人数:只限10人
 (因为收费被人吐槽, 没钱没精力搞场地, 欢迎捐款)
 
+### 主讲人信息:
+#### Mincong Zhang  
+Factset 2015-2018:  
+Market Data - software engineer/team manager  
+FDB NoSQL database: software engineer  
+
+Citi 2018:  
+Market Quant Analysis - quant analyst  
+
+#### Ziqi Liu
+Barclays 2015-2018:  
+Fullstack software engineer  
+
+JP Morgan 2018:  
+Asset Management - Full stack software engineer  
 
 ### 介绍
 
@@ -39,25 +54,9 @@
 3. 简历现场点评  
 欢迎大家提前发简历给我们看看, 我们可以现场点评和修改简历, 大概选3份吧
 
-
 在来听讲座之前, 希望大家也要提前准备, 想一些问题, 我们现场可以有针对性的统一回答大家的问题. 
 总之机会是给有准备的人的. 大家加油!
 
-### 主讲人信息:
-#### Mincong Zhang  
-Factset 2015-2018:  
-Market Data - software engineer/team manager  
-FDB NoSQL database: software engineer  
-
-Citi 2018:  
-Market Quant Analysis - quant analyst  
-
-#### Ziqi Liu
-Barclays 2015-2018:  
-Fullstack software engineer  
-
-JP Morgan 2018:  
-Asset Management - Full stack software engineer  
 
 ### 最后, 为什么我总是义务干这些事情?
 因为北邮人在英国不给力呀! 周围总是宁诺和西交利物浦圈子的人, 北邮人交流太少, 快点拿出你们的实力来!
